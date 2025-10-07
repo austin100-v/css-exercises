@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.common {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.click {
+    background-color: black;
+    color: white;
+}
+
+.unclick {
+    background-color: yellow;
+}
